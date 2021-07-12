@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @Theguy21
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Theguy21/Theguy21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---> $ python3 sherlock --help
+usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT]
+                [--output OUTPUT] [--tor] [--unique-tor] [--csv]
+                [--site SITE_NAME] [--proxy PROXY_URL] [--json JSON_FILE]
+                [--timeout TIMEOUT] [--print-all] [--print-found] [--no-color]
+                [--browse] [--local]
+                USERNAMES [USERNAMES ...]
